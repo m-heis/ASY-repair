@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.asy">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AllOrdersExecActivity"></activity>
+        <activity android:name=".MyOrdersExecActivity" />
+        <activity android:name=".MyServicesExecActivity" />
+        <activity android:name=".AddServiceExecActivity" />
+        <activity android:name=".MyOrdersCustomerActivity" />
+        <activity android:name=".MyCarsCustomerActivity" />
+        <activity android:name=".AddCarCustomerActivity" />
+        <activity android:name=".MyGarageCustomerActivity" />
+        <activity android:name=".MakeOrderCustomerActivity" />
+        <activity android:name=".MakeOrderMainActivity" />
+        <activity android:name=".PersonAreaOfExecActivity" />
+        <activity android:name=".PersonAreaOfCustActivity" />
+        <activity android:name=".WhoAmIActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

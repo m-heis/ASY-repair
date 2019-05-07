@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906067047197",
+    "firebase_url": "https://asyapp-90395.firebaseio.com",
+    "project_id": "asyapp-90395",
+    "storage_bucket": "asyapp-90395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906067047197:android:10efee672ff37172",
+        "android_client_info": {
+          "package_name": "com.example.asy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906067047197-3qqj97d38nbed9epcfna1vrv3crpu2hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asy",
+            "certificate_hash": "7a36d7ba568f92d0ccf01c0373f8e779035ec6c3"
+          }
+        },
+        {
+          "client_id": "906067047197-a9rmgimnevon5kdjn7e582ee4c9huij6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIs0wZ3hxy0O517DHkVs4XeFemX9vF_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906067047197-a9rmgimnevon5kdjn7e582ee4c9huij6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
